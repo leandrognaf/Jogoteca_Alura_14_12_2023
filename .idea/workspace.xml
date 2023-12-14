@@ -5,13 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ab74d19-9aad-4469-96f0-d279a504dde2" name="Changes" comment="Upload do projeto Jogoteca alura pycharm, python e flask">
-      <change afterPath="$PROJECT_DIR$/jogoteca.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/lista.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/novo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/template.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
